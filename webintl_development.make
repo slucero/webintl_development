@@ -11,6 +11,9 @@ projects[devel][subdir] = contrib
 projects[devel_debug_log][type] = module
 projects[devel_debug_log][subdir] = contrib
 
+projects[ftools][type] = module
+projects[ftools][subdir] = contrib
+
 projects[forminspect][type] = module
 projects[forminspect][subdir] = contrib
 
